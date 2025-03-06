@@ -46,18 +46,5 @@ By analyzing brain-muscle interactions, we aim to improve future works focusing 
    pip install -r requirements.txt
    ```
 
-3. **Convert `.mat` files to NumPy format**  
-   ```bash
-   python src/data/convert_mat_to_numpy.py
-   ```
-
-4. **Train the model**  
-   ```bash
-   python src/models/train_model.py
-   ```
-
-5. **Run predictions**  
-   ```bash
-   python src/models/predict_model.py
    ```
 
