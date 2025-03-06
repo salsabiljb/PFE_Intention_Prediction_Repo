@@ -45,6 +45,3 @@ By analyzing brain-muscle interactions, we aim to improve future works focusing 
    ```bash
    pip install -r requirements.txt
    ```
-
-   ```
-
